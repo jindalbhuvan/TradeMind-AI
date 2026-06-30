@@ -1,0 +1,6 @@
+{
+  "name": "TradeMind AI",
+  "description": "AI Trading Psychologist & Risk Coach analyzing trading behavior to improve discipline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
